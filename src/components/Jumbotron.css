@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Archivo");
+.jumbotron {
+  background-image: url(../images/i1.gif);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  color: white;
+  font-style: italic;
+  text-shadow: 4px 4px 4px #aaa;
+}

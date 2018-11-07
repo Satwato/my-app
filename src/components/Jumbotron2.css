@@ -1,0 +1,7 @@
+.jumbotron {
+  background-image: url(../images/i1.gif);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  color: white;
+}
