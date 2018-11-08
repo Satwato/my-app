@@ -5,9 +5,10 @@
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
-  padding-top: 70px;
+  padding-top: 110px;
   margin-top:5%;
   font-style: italic;
+  text-align: center;
   text-shadow: 4px 4px 4px #aaa;
   margin-bottom: 5%;
 }
